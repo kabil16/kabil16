@@ -1,13 +1,10 @@
 # kaBiL KBL
 Just Begining New Life 
-
 ## About me 
 I would like to become a full stack developer. I like to work with React, Firebase, AWS, MongoDB, NodeJS and Python. 
-I'm a open-source development enthusiast, an instructor and a freelancer.
-
+I'm a open-source development enthusiast, A freelancer.
 ## Learning From
 Anton Francis Jeejo (developer/youtuber).But He don't know me check him in GitHub
-
 ### "Learn code for Life"! ❤
 ![run](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
